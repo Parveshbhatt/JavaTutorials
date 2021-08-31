@@ -19,7 +19,7 @@ import com.javaTuts.model.Customer;
  2. Create Connection with DataBase
  	2.1 Information to connect to DB
  	user = root
- 	password = Parvesh@#123
+ 	password = ************
  	url = jdbc:mysql://localhost/pj2021db
  	
  	2.2 use the API Connection and DriverManager to create Connection
@@ -77,7 +77,7 @@ public class DBOperations {
 			// executeUpdate() -> insert, update, delete in DataBase
 			// executeQuery() -> select data from DataBase
 			int row = statement.executeUpdate(sql);
-			System.out.println(customer.name+ "  is inserted at id: "+row);
+			System.out.println(customer.name+ "  is inserted at row: "+row);
 			
 		} catch (Exception e) {
 			System.out.println("Something went wrong: "+e);

@@ -31,8 +31,5 @@ public class Song {
 		System.out.println("["+index+"] Track: "+track+"\t Artists: "+artists+"\t Duration: "+duration );
 		System.out.println("--------------------------------------------------");
 	}
-	
-	
-	
-	
+
 }

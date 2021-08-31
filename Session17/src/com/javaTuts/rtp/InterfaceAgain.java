@@ -51,6 +51,7 @@ public class InterfaceAgain {
 		 
 //		 Button button = new Button();
 	 ActionListener listener = new Button();
+	 
 		  // Anonymous Class :) // Singleton Design Pattern
 		 
 		 ActionListener listener1 = new ActionListener() { // -> new ActionListener() // to create a class with no name 
