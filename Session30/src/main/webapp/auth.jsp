@@ -18,20 +18,11 @@
 	 	String password = request.getParameter("txtPasssword");
 	 	
 	 	// MongoDB 
-	 	
-	 	
-	 	
-	 	
-	 	
-	 	
-	 	
-	 	
-	 	
-	 	
-	 	
+	
 	 
 	 %>
 	
+	<a href="error.html">error page</a> 
 
 </body>
 </html>
