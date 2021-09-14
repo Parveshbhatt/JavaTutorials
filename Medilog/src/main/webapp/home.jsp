@@ -27,7 +27,7 @@
  
  
 	<% 
-		User user = (User)session.getAttribute("keyUser");
+		User user = (User)session.getAttribute("keyUser"); //from HttpSession
 	%>
 
 		
