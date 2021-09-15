@@ -21,7 +21,7 @@ public class DB {
 	public DB() {
 
 		try {
-			String connectionUrl = "mongodb+srv://<username>:<password>@cluster0.mabb7.mongodb.net/<databasename>?retryWrites=true&w=majority";
+			String connectionUrl = "mongodb+srv://Parvesh:Parvesh123@cluster0.mabb7.mongodb.net/pj2021db?retryWrites=true&w=majority";
 			mongoClient = MongoClients.create(connectionUrl);
 
 			System.out.println(getClass().getSimpleName()

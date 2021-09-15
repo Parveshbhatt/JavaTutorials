@@ -98,7 +98,7 @@
 		 </div>
 		<br>
 	
-		<img title="Medicines"  class="rounded-circle" src=" https://st2.depositphotos.com/5045705/7758/v/950/depositphotos_77582818-stock-illustration-cartoon-medicine-pills.jpg" alt="cartoon - pills" width="50%" height="15%">		
+		<img title="Medicines"  class="rounded-circle" src=" cartoon-pills_home.jpg" alt="cartoon - pills" width="50%" height="15%">		
 			
 			<br><br>
 			<button type="button" class="btn btn-primary" onclick="document.location='logmedicine.jsp'"   title="logmedicine">

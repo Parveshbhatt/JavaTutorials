@@ -22,7 +22,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 <style type="text/css">
-   body {   background-image:url("https://st3.depositphotos.com/30906112/35336/i/450/depositphotos_353360894-stock-photo-abstract-background-blue-gradient-white.jpg")
+   body {   background-image:url("ImageBackground.jpg")
   !important; 
   background-position: center;
   background-repeat: no-repeat;
