@@ -66,60 +66,78 @@ public class ExceptionHandling {
 		
 		//Run Time Error -> Crashes the process and hence OS suffers
 	}
+	/*
 
-}
-
-
-/*
-
-		RTP -> Parent's reference can refer to any child object
-		
-		Throwable
-				Exception      | CHECKED EXCEPTIONS
-						RunTimeException | UNCHECKED EXCEPTIONS
-									ArrayIndexOutOfBoundsexception
-									NullPointerException
-									ArithmeticException
-									.
-									..
-									....
-						IOException
-									FileNotFoundException
-									.
-									..
-									....
-			            .
-			            ..
-			            ...
-			            ....
-			            
+	RTP -> Parent's reference can refer to any child object
+	
+	Throwable
+			Exception      | CHECKED EXCEPTIONS
+					RunTimeException | UNCHECKED EXCEPTIONS
+								ArrayIndexOutOfBoundsexception
+								NullPointerException
+								ArithmeticException
+								.
+								..
+								....
+					IOException
+								FileNotFoundException
+								.
+								..
+								....
+		            .
+		            ..
+		            ...
+		            ....
+		            
 
 
 */
 
 /*
- 
- try{
 
- }catch(){
- 
- }finally{
- 
- }
- 
-   try{
-  
-   }catch(){
-   
-   }
-   
-   try{
-  
-   }finally{
-   
-   }
-   
-   try{
+try{
+
+}catch(){
+
+}finally{
+
+}
+
+try{
+
+}catch(){
+
+}
+
+try{
+
+}finally{
+
+}
+
+try{
+
+}catch(){
+
+}
+finally{
+
+}
+
+try{
+
+}catch(){
+
+}
+catch(){
+
+}
+finally{
+
+}
+
+try{
+   	try{
   
    }catch(){
    
@@ -127,50 +145,33 @@ public class ExceptionHandling {
    finally{
    
    }
-   
-   try{
-  
-   }catch(){
-   
-   }
-   catch(){
-   
-   }
-   finally{
-   
-   }
-   
-   try{
+
+}catch(){
 	   	try{
-	  
-	   }catch(){
-	   
-	   }
-	   finally{
-	   
-	   }
   
    }catch(){
- 	   	try{
-	  
-	   }catch(){
-	   
-	   }
-	   finally{
-	   
-	   }  
+   
    }
    finally{
-   	   	try{
-	  
-	   }catch(){
-	   
-	   }
-	   finally{
-	   
-	   }
+   
+   }  
+}
+finally{
+	   	try{
+  
+   }catch(){
+   
    }
- 
- 
- */
+   finally{
+   
+   }
+}
+
+
+*/
+
+}
+
+
+
 
